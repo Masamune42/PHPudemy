@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bfe912-a74d-4f4d-9f4e-6f18a79c0a4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boucles/boucles.php" beforeDir="false" afterPath="$PROJECT_DIR$/6-boucles/boucles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boucles/foreach.php" beforeDir="false" afterPath="$PROJECT_DIR$/6-boucles/foreach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions/conditionsTernaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/5-conditions/conditionsTernaires.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonctions/exercice.php" beforeDir="false" afterPath="$PROJECT_DIR$/8-fonctions/exercice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonctionsnatives/maths.php" beforeDir="false" afterPath="$PROJECT_DIR$/9-fonctionsnatives/maths.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonctionsnatives/string.php" beforeDir="false" afterPath="$PROJECT_DIR$/9-fonctionsnatives/string.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonctionsnatives/tableaux.php" beforeDir="false" afterPath="$PROJECT_DIR$/9-fonctionsnatives/tableaux.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaires/fichier.php" beforeDir="false" afterPath="$PROJECT_DIR$/10-formulaires/fichier.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaires/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/10-formulaires/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaires/uploads/1582396511Hatsuzukiavatar4.png" beforeDir="false" afterPath="$PROJECT_DIR$/10-formulaires/uploads/1582396511Hatsuzukiavatar4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulaires/uploads/15823967711866596014.png" beforeDir="false" afterPath="$PROJECT_DIR$/10-formulaires/uploads/15823967711866596014.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet1/projet.php" beforeDir="false" afterPath="$PROJECT_DIR$/7-projet1/projet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typededonnes/concatenation.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnes/concatenation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typededonnes/exercice.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnes/exercice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typededonnes/tableaux.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnes/tableaux.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typededonnes/variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnes/variables.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +77,7 @@
       <workItem from="1582363785203" duration="160000" />
       <workItem from="1582363956362" duration="2196000" />
       <workItem from="1582384849544" duration="2022000" />
-      <workItem from="1582393231889" duration="3485000" />
+      <workItem from="1582393231889" duration="3737000" />
     </task>
     <servers />
   </component>
