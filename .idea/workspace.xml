@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94bfe912-a74d-4f4d-9f4e-6f18a79c0a4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Y9gkgxFuES46Ef3ieLGOpbJiqr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.php" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHPudemy\boucles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/test.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94bfe912-a74d-4f4d-9f4e-6f18a79c0a4c" name="Default Changelist" comment="" />
+      <created>1582360368823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582360368823</updated>
+      <workItem from="1582360370052" duration="3401000" />
+      <workItem from="1582363785203" duration="160000" />
+      <workItem from="1582363956362" duration="2196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1582360824690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360824690" />
+    <state x="667" y="110" key="#PHP" timestamp="1582360855242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="110" key="#PHP/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360855242" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582360936279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360936279" />
+    <state x="227" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582362211217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="227" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582362211217" />
+    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582360915712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360915712" />
+    <state x="679" y="208" key="#test.php" timestamp="1582360827965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="208" key="#test.php/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360827965" />
+    <state x="238" y="394" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582362359122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="238" y="394" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582362359122" />
+    <state x="694" y="282" key="EnvironmentVariablesDialog" timestamp="1582360911610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="282" key="EnvironmentVariablesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360911610" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1582360711962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360711962" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1582360841912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360841912" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1582360841912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360841912" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1582360841911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360841911" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1582360841912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360841912" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1582365202261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582365202261" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582363774354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582363774354" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582376154263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582376154263" />
+  </component>
+</project>
