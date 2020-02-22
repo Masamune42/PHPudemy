@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bfe912-a74d-4f4d-9f4e-6f18a79c0a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test.php" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -60,6 +62,7 @@
       <workItem from="1582360370052" duration="3401000" />
       <workItem from="1582363785203" duration="160000" />
       <workItem from="1582363956362" duration="2196000" />
+      <workItem from="1582384849544" duration="1176000" />
     </task>
     <servers />
   </component>
@@ -119,10 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360841912" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1582377555955">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1582385598801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582377555955" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582385598801" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1582363774354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
