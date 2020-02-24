@@ -2,4 +2,4 @@
 $direBonjour = "Hello";
 $destination = "World";
 
-echo $direBonjour.' '.$destination;
+echo $direBonjour.' '.$edestination;
