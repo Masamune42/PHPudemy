@@ -1,0 +1,113 @@
+* {
+    /* Permet que les boites restent en place pour ne pas avoir de barre de défilement */
+    box-sizing: border-box;
+}
+
+/* On retire les marges blanches sur les balises html et body */
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+#hello {
+    background-image: url("../pictures/hello.jpg");
+    /* Affiche toute l'image et qui se redimensionne automatiquement */
+    background-size: cover;
+    height: 500px;
+}
+
+header {
+    padding: 30px;
+}
+
+header #logo {
+    height: 50px;
+    margin: 10px;
+}
+
+.container {
+    width: 1100px;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 2.9em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+
+#hello form {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Sélection de la balise input -> type url */
+input[type=url] {
+    border-radius: 3px;
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
+    padding: 17px 30px;
+    /* Retire les bordures  des input du formulaire pour que ça soit plus propre */
+    border: none;
+    width: 50%;
+    font-size: 1.3em;
+}
+
+input[type=submit] {
+    /* Change le curseur de la souris pour indiquer que le bouton est cliquable */
+    cursor: pointer;
+    padding: 17px 30px;
+    font-size: 1.3em;
+    border: none;
+    border-radius: 3px;
+    background: #EE6123;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.4);
+}
+
+#brands {
+    background-color: #EFF7FC;
+    padding: 30px;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    color: #EE6123;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+}
+
+.picture {
+    height: 35px;
+    margin: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+}
+
+footer #logo {
+    height: 35px;
+}
+
+a {
+    color: #EE6123;
+    font-weight: bold;
+    text-decoration: none;
+    /* = Diminuer la taille de 10% -> 1em = 100% */
+    font-size: 0.9em;
+}
