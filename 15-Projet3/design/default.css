@@ -111,3 +111,16 @@ a {
     /* = Diminuer la taille de 10% -> 1em = 100% */
     font-size: 0.9em;
 }
+
+#result{
+    color: white;
+    padding: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.center{
+    text-align: center;
+}
