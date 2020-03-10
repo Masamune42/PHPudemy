@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59401176-ab49-470d-8735-aa9df8304927" name="Default Changelist" comment="" />
+    <list default="true" id="59401176-ab49-470d-8735-aa9df8304927" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-typededonnes/concatenation.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/concatenation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-typededonnes/exercice.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/exercice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-typededonnes/tableaux.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/tableaux.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-typededonnes/variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/variables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +105,8 @@
       <workItem from="1583234650771" duration="9614000" />
       <workItem from="1583305952829" duration="17334000" />
       <workItem from="1583330492848" duration="568000" />
+      <workItem from="1583862904927" duration="1492000" />
+      <workItem from="1583867805131" duration="1992000" />
     </task>
     <servers />
   </component>
@@ -176,20 +185,20 @@
     <state x="662" y="366" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1583176398650" />
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582394964686" />
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583329274372" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1583234858540">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="384" y="134" key="SettingsEditor" timestamp="1583867856245">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="384" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582886102259" />
+    <state x="384" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583867856245" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582363774354" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583234858540" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582817151071">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1582817151071" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583306147701">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="547" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1583867805124">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="547" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583171617269" />
+    <state x="547" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583867805124" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582376154263" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583306147701" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1583177744738">
