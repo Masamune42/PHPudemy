@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59401176-ab49-470d-8735-aa9df8304927" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-typededonnes/concatenation.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/concatenation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-typededonnes/exercice.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/exercice.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-typededonnes/tableaux.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/tableaux.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-typededonnes/variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/4-typededonnees/variables.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +52,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coursphp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15-Projet3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHPudemy\15-Projet3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHPudemy\17-projet4" />
       <recent name="C:\wamp64\www\PHPudemy\10-formulaires" />
       <recent name="C:\wamp64\www\PHPudemy\11-projet2" />
       <recent name="C:\wamp64\www\PHPudemy\boucles" />
@@ -107,6 +107,7 @@
       <workItem from="1583330492848" duration="568000" />
       <workItem from="1583862904927" duration="1492000" />
       <workItem from="1583867805131" duration="1992000" />
+      <workItem from="1583910561816" duration="2161000" />
     </task>
     <servers />
   </component>
@@ -195,12 +196,12 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1582817151071" />
-    <state x="547" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1583867805124">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583910565584">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="547" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583867805124" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582376154263" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583306147701" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583910565584" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1583177744738">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
