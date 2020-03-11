@@ -8,21 +8,21 @@ Cours de PHP sur udemy.
 ## Résumé des projets
 Projet 2 : Hébergeur d'images
 ==========
-### Principe
-Le but du projet est de pouvoir upload une image et de pouvoir l'afficher par la suite.
-
 ### Description
+Le but du projet est de pouvoir upload une image et de pouvoir l'afficher par la suite.
 - On crée un formulaire qui avec méthode post.
 - On vérifie que le fichier est bien une image de type pris en charge
 - Si c'est le cas, alors on stock l'image dans le dossier uploads en la renommant avec une valeur aléatoire
 - On affiche l'image via son chemin d'accès dans uploads
 
+### Fichiers
+- hebergeur.php -> Page principale
+- uploads/ -> dossier de destination des images enregistrées
+
 Projet 3 : Raccourcisseur d'URL
 ==========
-### Principe
-Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plus cours ramenant à la même page.
-
 ### Description
+Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plus cours ramenant à la même page.
 - On reçoit un lien avec un paramètre "q" passé en paramètre
     - On établi une connexion à la BDD avec PDO
     - On compte le nombre d'éléments correspondants à la valeur du paramètre en BDD
@@ -33,6 +33,9 @@ Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plu
     - Sinon, on lui attribut un raccourci généré aléatoirement
     - On vérifie que l'url indiqué n'existe pas déjà en BDD, si c'est c'est le cas -> erreur
     - Sinon, on stock la valeur de l'url et son raccourci
+    
+### Fichiers
+- index.php -> Page principale
 
 ### Base de données
 - Nom : bitly
@@ -42,14 +45,14 @@ Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plu
     
 Projet 4 : Espace membre
 ==========
-### Principe
+### Description
 Le but du projet est de pouvoir créer un compte utilisateur et de se connecter.
 
-### Description
-index.php ->
-- On rempli le formulaire d'inscription
-- On vérifie que tous les champs sont remplis
-- On vérifie que le mot de passe et la vérification sont identiques
+### Fichiers
+- index.php -> Page d'inscription
+- connexion.php -> Pas de connexion
+- disconnexion.php -> Déconnecte l'utilisateur et lui retire ses cookies, renvoie vers la page de connexion
+- src/connexion.php -> Connexion à la base de données
 
 ### Base de données
 - Nom : formation_members
@@ -59,15 +62,15 @@ index.php ->
     
 Projet 5 : Espace membre Netflix
 ==========
-### Principe
+### Description
 Le but du projet est de pouvoir créer un compte utilisateur et de se connecter sur un site ressemblant à Netflix.
 
-### Description
-index.php ->
-- On rempli le formulaire
-- On vérifie que tous les champs sont remplis
-
-inscription.php ->
+### Fichiers
+- index.php -> Page de connexion
+- inscription.pnp -> Page d'inscription
+- logout.php -> Déconnecte l'utilisateur et lui retire ses cookies
+- src/connect.php -> Connecte à la base de données
+- src/log.php -> Connexion auto si on trouve des cookies
 
 ### Base de données
 - Nom : netflix
