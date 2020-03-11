@@ -5,9 +5,10 @@ Cours de PHP sur udemy.
 - PHPStorm -> Extensions :
     - PHP Annotations
 
-## Résumé des projets
-Projet 2 : Hébergeur d'images
+Résumé des projets
 ==========
+## Projet 2 : Hébergeur d'images
+
 ### Description
 Le but du projet est de pouvoir upload une image et de pouvoir l'afficher par la suite.
 - On crée un formulaire qui avec méthode post.
@@ -19,8 +20,7 @@ Le but du projet est de pouvoir upload une image et de pouvoir l'afficher par la
 - hebergeur.php -> Page principale
 - uploads/ -> dossier de destination des images enregistrées
 
-Projet 3 : Raccourcisseur d'URL
-==========
+## Projet 3 : Raccourcisseur d'URL
 ### Description
 Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plus cours ramenant à la même page.
 - On reçoit un lien avec un paramètre "q" passé en paramètre
@@ -43,8 +43,7 @@ Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plu
 - Table : links
     - Colonnes : id, url, shortcut
     
-Projet 4 : Espace membre
-==========
+## Projet 4 : Espace membre
 ### Description
 Le but du projet est de pouvoir créer un compte utilisateur et de se connecter.
 
@@ -60,8 +59,7 @@ Le but du projet est de pouvoir créer un compte utilisateur et de se connecter.
 - Table : links
     - Colonnes : id, email, password, secret, creation_date, blocked
     
-Projet 5 : Espace membre Netflix
-==========
+## Projet 5 : Espace membre Netflix
 ### Description
 Le but du projet est de pouvoir créer un compte utilisateur et de se connecter sur un site ressemblant à Netflix.
 
