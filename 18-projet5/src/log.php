@@ -23,3 +23,18 @@ if (isset($_COOKIE['auth']) && !isset($_SESSION['connect'])) {
         }
     }
 }
+
+if (isset($_SESSION['connect'])) {
+
+    require 'connect.php';
+
+    $reqUser = $db->prepare('SELECT * FROM user WHERE email = ?');
+    $reqUser->execute(array($_SESSION['email']));
+
+    while ($userAccount = $reqUser->fetch()) {
+        if ($userAccount['blocked']) {
+            header('location: logout.php');
+            exit();
+        }
+    }
+}
