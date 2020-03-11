@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59401176-ab49-470d-8735-aa9df8304927" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18-projet5/src/log.php" beforeDir="false" afterPath="$PROJECT_DIR$/18-projet5/src/log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/15-Projet3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -108,7 +108,9 @@
       <workItem from="1583862904927" duration="1492000" />
       <workItem from="1583867805131" duration="1992000" />
       <workItem from="1583910561816" duration="9830000" />
-      <workItem from="1583924502418" duration="2907000" />
+      <workItem from="1583924502418" duration="3595000" />
+      <workItem from="1583933630880" duration="1026000" />
+      <workItem from="1583934686787" duration="1667000" />
     </task>
     <servers />
   </component>
@@ -181,28 +183,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582360841912" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1583329274372">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1583932930208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="662" y="366" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1583176398650" />
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582394964686" />
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583329274372" />
-    <state x="384" y="134" key="SettingsEditor" timestamp="1583867856245">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583932930208" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583934712744">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="384" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583867856245" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582363774354" />
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583234858540" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583934712744" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582817151071">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1582817151071" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583924511049">
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583934686719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="547" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583867805124" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582376154263" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583924511049" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583934686719" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1583177744738">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

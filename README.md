@@ -64,11 +64,13 @@ Le but du projet est de pouvoir créer un compte utilisateur et de se connecter 
 
 ### Description
 index.php ->
+- On rempli le formulaire
+- On vérifie que tous les champs sont remplis
 
 inscription.php ->
 
 ### Base de données
 - Nom : netflix
-- Fichier : netflix.sql (à générer)
+- Fichier : netflix.sql
 - Table : links
     - Colonnes : id, email, password, secret, creation_date, blocked
