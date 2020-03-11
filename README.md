@@ -35,6 +35,10 @@ Le but du projet est de renseigner un lien voulu afin d'en renvoyer un autre plu
     - Sinon, on stock la valeur de l'url et son raccourci
 
 ### Base de données
+- Nom : bitly
+- Fichier : bitly.sql
+- Table : links
+    - Colonnes : id, url, shortcut
     
 Projet 4 : Espace membre
 ==========
@@ -46,4 +50,25 @@ index.php ->
 - On rempli le formulaire d'inscription
 - On vérifie que tous les champs sont remplis
 - On vérifie que le mot de passe et la vérification sont identiques
+
 ### Base de données
+- Nom : formation_members
+- Fichier : formation_members.sql
+- Table : links
+    - Colonnes : id, email, password, secret, creation_date, blocked
+    
+Projet 5 : Espace membre Netflix
+==========
+### Principe
+Le but du projet est de pouvoir créer un compte utilisateur et de se connecter sur un site ressemblant à Netflix.
+
+### Description
+index.php ->
+
+inscription.php ->
+
+### Base de données
+- Nom : netflix
+- Fichier : netflix.sql (à générer)
+- Table : links
+    - Colonnes : id, email, password, secret, creation_date, blocked
