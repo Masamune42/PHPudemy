@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59401176-ab49-470d-8735-aa9df8304927" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <workItem from="1583910561816" duration="9830000" />
       <workItem from="1583924502418" duration="3595000" />
       <workItem from="1583933630880" duration="1026000" />
-      <workItem from="1583934686787" duration="2778000" />
+      <workItem from="1583934686787" duration="4000000" />
     </task>
     <servers />
   </component>
@@ -199,12 +198,12 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1582817151071" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583934686719">
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1584000585583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="547" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583867805124" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582376154263" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583934686719" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584000585583" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1583177744738">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
